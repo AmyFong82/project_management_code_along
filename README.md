@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I'm doing a refresher course on Ruby on Rails.
 
-Things you may want to cover:
+Following along this video:
 
-* Ruby version
+Rails Tutorial | Building a Project Management App from Scratch with Ruby on Rails 6
+By Techmaker Studio
 
-* System dependencies
+https://www.youtube.com/watch?v=u2o_new-T0o
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
